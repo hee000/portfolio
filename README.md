@@ -100,7 +100,7 @@
 
 '[길건너 친구들](https://www.crossyroad.com/)'에서 영감을 받아 ARM 프로세서 기반에 임베디드 리눅스에서 8x8 도트 매트릭스 상에 장애물과 유저를, LED에 신호등을, CLCD에 최고 점수를, FND에 현재 점수를 출력하고 택트 스위치로 조작하며 이루어지는 장애물 피하기 게임 프로그램을 개발했습니다.
 
-![demo](https://user-images.githubusercontent.com/23726218/118643217-394c6a80-b817-11eb-9ae3-a52bfb01e81b.png)
+![demo](https://raw.githubusercontent.com/hee000/portfolio/main/images/Embedded.png)
 
 #### 규칙 설명
 
