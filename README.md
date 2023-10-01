@@ -69,7 +69,23 @@
 
 <hr>
 
-### 3. [쓰기나름](https://apps.apple.com/kr/app/%EC%93%B0%EA%B8%B0%EB%82%98%EB%A6%84/id6443413796)(개인) - IOS
+### 3. [이미지 갤러리 업로더]()(개인) - Chrome Extension
+
+![img1](https://raw.githubusercontent.com/hee000/portfolio/main/images/e_preview_1.png) | ![img2](https://raw.githubusercontent.com/hee000/portfolio/main/images/e_preview_2.png)
+---|---|
+
+#### 개요
+
+웹에 있는 이미지를 [이미지 갤러리](https://github.com/hee000/image_gallery_server)에 업로드하는 크롬 확장프로그램입니다.
+
+#### 기술스택
+`Chrome Extensions`
+
+[Repository](https://github.com/hee000/image_gallery_chrome_extension)
+
+<hr>
+
+### 4. [쓰기나름](https://apps.apple.com/kr/app/%EC%93%B0%EA%B8%B0%EB%82%98%EB%A6%84/id6443413796)(개인) - IOS
 
 #### 개요
 
@@ -96,7 +112,7 @@
 
 <hr>
 
-### 4. 임베디드 게임 프로그램(개인) - Embedded
+### 5. 임베디드 게임 프로그램(개인) - Embedded
 
 #### 개요
 
