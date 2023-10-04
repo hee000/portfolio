@@ -69,7 +69,7 @@
 
 <hr>
 
-### 3. [이미지 갤러리 업로더]()(개인) - Chrome Extension
+### 3. [이미지 갤러리 업로더](https://chrome.google.com/webstore/detail/%EC%8A%A4%ED%85%94%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%82%AC%EC%A7%84-%EA%B0%A4%EB%9F%AC%EB%A6%AC-%EC%97%85%EB%A1%9C%EB%8D%94/ljalcmcaglogpengicjoagdpmdkeidpa?hl=ko)(개인) - Chrome Extension
 
 ![img1](https://raw.githubusercontent.com/hee000/portfolio/main/images/e_preview_1.png) | ![img2](https://raw.githubusercontent.com/hee000/portfolio/main/images/e_preview_2.png)
 ---|---|
