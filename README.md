@@ -35,7 +35,7 @@
 
 <hr>
 
-### 2. [이미지 갤러리](http://nenekomashiro.com)(개인) - Fullstack 
+### 2. [이미지 갤러리](https://nenekomashiro.com/stellive_all)(개인) - Fullstack 
 
 <img src="https://raw.githubusercontent.com/hee000/portfolio/main/images/i_preview.jpg" width="60%">
 
@@ -96,7 +96,7 @@
 
 #### 기술 스택
 
-`SwiftUI` `UIKit` `CoreData` `CloudKit` `Combine` `Photos` `Socket.io`
+`SwiftUI` `UIKit` `CoreData` `CloudKit` `Combine` `Photos`
 
 #### 특징
 
@@ -108,7 +108,7 @@
 
 - 라이트/다크 모드 테마를 지원
 
-[Repository(App)](https://github.com/hee000/IOS_DormitoryDelivery)
+[Repository(App)](https://github.com/hee000/Formkdiary)
 
 <hr>
 
